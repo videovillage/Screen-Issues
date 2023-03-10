@@ -1,3 +1,3 @@
-# [Click here to go to the issue tracker &rarr;](https://github.com/videovillage/Screen-Issues/issues)
+# [Issues and discussions have moved. Please click here. &rarr;](https://github.com/orgs/videovillage/discussions)
 
-This repo is for issues with [Screen](https://videovillage.co/screen).
+This repo is archived. Please use the link above.
